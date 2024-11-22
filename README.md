@@ -150,8 +150,8 @@ More about ADAM here : https://keras.io/api/optimizers/adam/
 This project wouldn't have been possible without an incredible team effort!
 Here's the squad that made it happen:
 
-- [Antoine](https://github.com/Tonio2)
 - [Lisa](https://github.com/LDuheron)
+- [Antoine](https://github.com/Tonio2)
 
 
 ## RESSOURCES
